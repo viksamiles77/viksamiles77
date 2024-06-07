@@ -7,7 +7,7 @@ knowledge and a drive to excel, I am dedicated to honing my skills and contribut
 to the ever-evolving landscape of software development.
 
 - 🔭 I’m currently working on TaxiManagerApp and TryBeingFitApp
-- 🌱 I’m currently learning C#, .NET, MVC, Angular
+- 🌱 I’m currently learning .NET, MVC, Angular
 - 📫 How to reach me: mileskiviktor77@gmail.com
 - ⚡ Fun fact: Sports enthusiast
 <a href="https://www.instagram.com/viktor_mileski" target="_blank">
