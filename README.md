@@ -6,7 +6,7 @@ while also mastering the principles of Object-Oriented Programming (OOP). With a
 knowledge and a drive to excel, I am dedicated to honing my skills and contributing meaningfully 
 to the ever-evolving landscape of software development.
 
-- 🔭 I’m currently working on TaxiManagerApp and TryBeingFitApp
+- 🔭 I’m currently working on Video Rental APP (MVC)
 - 🌱 I’m currently learning .NET, MVC, Angular
 - 📫 How to reach me: mileskiviktor77@gmail.com
 - ⚡ Fun fact: Sports enthusiast
