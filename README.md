@@ -1,8 +1,8 @@
-<h3 align="center">I am Viktor Mileski, a passionate 20-year-old currently immersing myself in the programming world at Qinshift Academy. My technology journey has led me to delve deep into languages like C# (.NET) and Javascript, while also mastering the principles of Object-Oriented Programming (OOP). With a hunger for knowledge and a drive to excel, I am dedicated to honing my skills and contributing meaningfully to the ever-evolving landscape of software development.</h3>
+<h3>Hi, I am Viktor Mileski, a passionate 21-year-old developer</h3>
 
-- 🌱 I’m currently learning **.NET, Web API, React**, making
+- 🌱 I’m currently learning **Laravel and Angular**
 
-- 🚀 Currently building a full-stack app using .NET for the backend and React for the frontend
+- 🚀 Currently working with Angular
 
 - 📫 How to reach me **mileskiviktor77@gmail.com**
 
